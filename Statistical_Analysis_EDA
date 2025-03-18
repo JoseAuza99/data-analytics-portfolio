@@ -1,5 +1,6 @@
 # 📊 Exploratory Statistical Analysis in Python
- This lab explores key statistical techniques for exploratory data analysis (EDA) using Python. It covers central tendency and dispersion measures, kurtosis analysis, normality checks, and data visualization to extract key insights.
+
+This lab explores key statistical techniques for exploratory data analysis (EDA) using Python. It covers central tendency and dispersion measures, kurtosis analysis, normality checks, and data visualization to extract key insights.
 
 ## 🔍 **Objectives**
 - Apply exploratory data analysis (EDA) techniques.
@@ -10,20 +11,21 @@
 - Python (pandas, numpy, matplotlib, seaborn)
 - Jupyter Notebook
 
-## 📂 **Project Structure**
+## 📝 **Project Structure**
 - `Lab_Statistical_Analysis.ipynb` → Notebook containing the exploratory data analysis.
-- `datasets are created in the notebook.
+- The datasets are generated within the notebook.
 
 ## 📊 **Key Analyses Conducted**
 - Data distribution analysis.
 - Calculation of statistical measures (mean, median, mode, standard deviation).
-- Normality analysis using Kernel Density Estimation (KDE) plots.
+- Normality assessment using Kernel Density Estimation (KDE) plots.
 - Data visualization using histograms, pie charts, line plots, and bar plots.
 
-## 📎 **Key Findings**
+## 🔍 **Key Findings**
 - Identified patterns in the distribution of key variables.
-- Analyzed data distribution through pie charts.
+- Analyzed data distribution using pie charts.
 - Generated insights based on graphs and statistics.
+
 
 
 
