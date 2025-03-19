@@ -29,18 +29,18 @@ It includes fundamental concepts of regression analysis, model estimation, and e
 Both datasets are loaded within the notebooks for exploratory analysis and model estimation.
   
 
-## 📊 Key Analyses Conducted
+## 📊 Key Analyses Conducted  
+- 🔹 Simple Linear Regression Estimation  
+- 🔹 Multiple Linear Regression Estimation  
+- 🔹 Residual Analysis and Model Evaluation  
+- 🔹 Feature Selection for Multiple Regression Models  
 
-🔹  Simple Linear Regression Estimation
-🔹  Multiple Linear Regression Estimation  
-🔹  Residual Analysis and Model Evaluation  
-🔹  Feature Selection for Multiple Regression Models
+---
 
-## 🔍 Key Findings
-
-🔹  Evaluated the impact of independent variables on the target variable.
-🔹  Compared model performance using statistical metrics.  
-🔹  Interpreted regression coefficients and their significance.
+## 🔍 Key Findings  
+- 🔹 Evaluated the impact of independent variables on the target variable.  
+- 🔹 Compared model performance using statistical metrics.  
+- 🔹 Interpreted regression coefficients and their significance.  
 
 ---
 
