@@ -37,6 +37,8 @@ All datasets are loaded within the notebooks for exploratory analysis, regressio
 🔹  Comparison of Linear vs. Non-Linear Regression Models 
 🔹  Model Evaluation Metrics for Classification
 
+---
+
 ## 🔍 Key Findings  
 
 🔹  Demonstrated the effectiveness of non-linear regression in capturing complex patterns.  
