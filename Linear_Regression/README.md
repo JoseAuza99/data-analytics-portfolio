@@ -18,8 +18,8 @@ It includes fundamental concepts of regression analysis, model estimation, and e
 ## 📂 Project Structure
 
 📌 **Linear Regression Notebooks:**  
-- 📖 [Simple Linear Regression]([Simple_Linear_Regression.ipynb](https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Linear_Regression/Lab%203.1%20Estimaci%C3%B3n%20modelos%20de%20regresi%C3%B3n%20lineal%20simple%20en%20Python.ipynb)) → Estimation of simple linear regression models.  
-- 📖 [Multiple Linear Regression](Multiple_Linear_Regression.ipynb) → Estimation of multiple linear regression models.  
+- 📖 [Simple Linear Regression](https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Linear_Regression/Lab%203.1%20Estimaci%C3%B3n%20modelos%20de%20regresi%C3%B3n%20lineal%20simple%20en%20Python.ipynb) → Estimation of simple linear regression models.  
+- 📖 [Multiple Linear Regression](https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Linear_Regression/Lab%203.2%20Estimaci%C3%B3n%20modelos%20de%20regresi%C3%B3n%20lineal%20m%C3%BAltiple%20en%20Python.ipynb) → Estimation of multiple linear regression models.  
 
 ## 📌 Data Handling
 📂 **Datasets Used:**  
@@ -31,16 +31,16 @@ Both datasets are loaded within the notebooks for exploratory analysis and model
 
 ## 📊 Key Analyses Conducted
 
-🔹 **Simple Linear Regression Estimation**  
-🔹 **Multiple Linear Regression Estimation**  
-🔹 **Residual Analysis and Model Evaluation**  
-🔹 **Feature Selection for Multiple Regression Models**  
+🔹  Simple Linear Regression Estimation
+🔹  Multiple Linear Regression Estimation  
+🔹  Residual Analysis and Model Evaluation  
+🔹  Feature Selection for Multiple Regression Models
 
 ## 🔍 Key Findings
 
-🔹 **Evaluated the impact of independent variables on the target variable.**  
-🔹 **Compared model performance using statistical metrics.**  
-🔹 **Interpreted regression coefficients and their significance.**  
+🔹  Evaluated the impact of independent variables on the target variable.
+🔹  Compared model performance using statistical metrics.  
+🔹  Interpreted regression coefficients and their significance.
 
 ---
 
