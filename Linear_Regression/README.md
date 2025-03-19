@@ -18,11 +18,15 @@ It includes fundamental concepts of regression analysis, model estimation, and e
 ## 📂 Project Structure
 
 📌 **Linear Regression Notebooks:**  
-- 📖 [Simple Linear Regression](Simple_Linear_Regression.ipynb) → Estimation of simple linear regression models.  
+- 📖 [Simple Linear Regression]([Simple_Linear_Regression.ipynb](https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Linear_Regression/Lab%203.1%20Estimaci%C3%B3n%20modelos%20de%20regresi%C3%B3n%20lineal%20simple%20en%20Python.ipynb)) → Estimation of simple linear regression models.  
 - 📖 [Multiple Linear Regression](Multiple_Linear_Regression.ipynb) → Estimation of multiple linear regression models.  
 
-📌 **Data Handling:**  
-- Some datasets used are provided within the notebooks.
+## 📌 Data Handling
+📂 **Datasets Used:**  
+- 🗂 **Boston Housing Dataset (`boston.csv`)** → Used for multiple linear regression modeling.  
+- 🌍 **AirQuality Dataset (`statsmodels.datasets`)** → Used for regression analysis and visualization.  
+
+Both datasets are loaded within the notebooks for exploratory analysis and model estimation.
   
 
 ## 📊 Key Analyses Conducted
