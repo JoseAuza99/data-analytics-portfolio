@@ -38,19 +38,17 @@ https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Energy_Sustaina
 ---
 
 ## 📊 Key Analyses Conducted  
-
-🔹  Exploratory Data Analysis (EDA) 
-🔹  Energy efficiency calculations using renewable energy contributions
-🔹  Economic benefit estimations based on subsidies, taxes, and savings
-🔹  ETL pipeline implementation in PySpark
+🔹 Exploratory Data Analysis (EDA)  
+🔹 Energy efficiency calculations using renewable energy contributions  
+🔹 Economic benefit estimations based on subsidies, taxes, and savings  
+🔹 ETL pipeline implementation in PySpark  
 
 ---
 
 ## 🔍 Key Findings  
-
-🔹  Standardization of energy data was necessary due to inconsistencies in company names and country labels. 
-🔹  Efficiency metrics helped classify companies as "sustainable" based on their renewable energy usage. 
-🔹  Financial models were built to assess the economic impact of energy projects.  
+🔹 Standardization of energy data was necessary due to inconsistencies in company names and country labels.  
+🔹 Efficiency metrics helped classify companies as "sustainable" based on their renewable energy usage.  
+🔹 Financial models were built to assess the economic impact of energy projects.  
 
 ---
 
