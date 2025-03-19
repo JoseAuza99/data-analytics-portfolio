@@ -25,16 +25,16 @@ It covers theoretical and empirical probability distributions, visualization tec
 
 ## 📊 Key Analyses Conducted
 
-🔹 **Probability Function Modeling**  
-🔹 **Exploring different probability distributions**  
-🔹 **Comparing theoretical vs empirical distributions**  
-🔹 **Using statistical tests for distribution fitting**  
+🔹  Probability Function Modeling
+🔹  Exploring different probability distributions
+🔹  Comparing theoretical vs empirical distributions 
+🔹  Using statistical tests for distribution fitting
 
 ## 🔍 Key Findings
 
-🔹 **Identified key probability distributions for real-world scenarios.**  
-🔹 **Compared different distribution models using statistical techniques.**  
-🔹 **Generated insights through visual exploration of functions.**  
+🔹  Identified key probability distributions for real-world scenarios.  
+🔹  Compared different distribution models using statistical techniques. 
+🔹  Generated insights through visual exploration of functions.  
 
 ---
 
