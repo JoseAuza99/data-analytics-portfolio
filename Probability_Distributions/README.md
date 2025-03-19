@@ -18,23 +18,23 @@ It covers theoretical and empirical probability distributions, visualization tec
 ## 📂 Project Structure
 
 📌 **Main Notebook:**  
-- 📖 [Probability_Distributions.ipynb](Probability_Distributions.ipynb) → Notebook containing function modeling and probability distribution analysis.  
+- 📖 [Probability_Distributions.ipynb](https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Probability_Distributions/Lab%202.2%20Modelado%20de%20funciones%20y%20gr%C3%A1ficos%20de%20distribuciones%20de%20probabilidad%20en%20Python.ipynb) → Notebook containing function modeling and probability distribution analysis.  
 
 📌 **Data Handling:**  
 - The dataset (if applicable) is generated within the notebook.  
 
 ## 📊 Key Analyses Conducted
 
-📈 **Probability Function Modeling**  
-📊 **Exploring different probability distributions**  
-📉 **Comparing theoretical vs empirical distributions**  
-🛠 **Using statistical tests for distribution fitting**  
+🔹 **Probability Function Modeling**  
+🔹 **Exploring different probability distributions**  
+🔹 **Comparing theoretical vs empirical distributions**  
+🔹 **Using statistical tests for distribution fitting**  
 
 ## 🔍 Key Findings
 
-📊 **Identified key probability distributions for real-world scenarios.**  
-📉 **Compared different distribution models using statistical techniques.**  
-📈 **Generated insights through visual exploration of functions.**  
+🔹 **Identified key probability distributions for real-world scenarios.**  
+🔹 **Compared different distribution models using statistical techniques.**  
+🔹 **Generated insights through visual exploration of functions.**  
 
 ---
 
