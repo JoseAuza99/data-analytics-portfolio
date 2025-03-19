@@ -14,7 +14,7 @@ The goal is to analyze and structure data related to **companies, renewable ener
 ## 🛠 Tools Used  
 
 💻 **Programming:** Python, PySpark  
-📊 **Visualization:** Matplotlib, Seaborn  
+📊 **Visualization:** Matplotlib 
 🗄 **Big Data Processing:** PySpark, Pandas  
 ☁️ **Environment:** Google Colab  
 
@@ -23,10 +23,12 @@ The goal is to analyze and structure data related to **companies, renewable ener
 ## 📂 Project Structure  
 
 📌 **Google Colab Notebooks:**  
-- 📖 [Exploratory Data Analysis](Proyecto_final_EDA.ipynb) → Initial data analysis and dataset cleaning.  
-- 📖 [Energy Efficiency Analysis](Eficiencia_energetica_empresas_proyecto.ipynb) → Calculation of energy efficiency metrics.  
-- 📖 [Economic Benefits of Energy Projects](Beneficios_proyectos_energeticos.ipynb) → Financial analysis of energy projects.  
-- 📜 [Project Report](Memoria del Proyecto.pdf) → Detailed documentation of the project.  
+- 📖 [Exploratory Data Analysis](https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Energy_Sustainability_ETL/Proyecto_final_EDA.ipynb) → Initial data analysis and dataset cleaning.  
+- 📖 [Energy Efficiency Analysis](https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Energy_Sustainability_ETL/Eficiencia_energetica_empresas_proyecto.ipynb) → Calculation of energy efficiency metrics.  
+- 📖 [Economic Benefits of Energy Projects](https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Energy_Sustainability_ETL/Beneficios_proyectos_energeticos.ipynb) → Financial analysis of energy projects.  
+- 📜 [Project Report](
+https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Energy_Sustainability_ETL/Memoria%20del%20Proyecto.pdf
+) → Detailed documentation of the project.  
 
 📌 **Data Sources:**  
 - 🏢 **Company Dataset** → Contains company-level energy data.  
@@ -37,18 +39,18 @@ The goal is to analyze and structure data related to **companies, renewable ener
 
 ## 📊 Key Analyses Conducted  
 
-🔹 **Exploratory Data Analysis (EDA)**  
-🔹 **Energy efficiency calculations using renewable energy contributions**  
-🔹 **Economic benefit estimations based on subsidies, taxes, and savings**  
-🔹 **ETL pipeline implementation in PySpark**  
+🔹  Exploratory Data Analysis (EDA) 
+🔹  Energy efficiency calculations using renewable energy contributions
+🔹  Economic benefit estimations based on subsidies, taxes, and savings
+🔹  ETL pipeline implementation in PySpark
 
 ---
 
 ## 🔍 Key Findings  
 
-🔹 **Standardization of energy data was necessary due to inconsistencies in company names and country labels.**  
-🔹 **Efficiency metrics helped classify companies as "sustainable" based on their renewable energy usage.**  
-🔹 **Financial models were built to assess the economic impact of energy projects.**  
+🔹  Standardization of energy data was necessary due to inconsistencies in company names and country labels. 
+🔹  Efficiency metrics helped classify companies as "sustainable" based on their renewable energy usage. 
+🔹  Financial models were built to assess the economic impact of energy projects.  
 
 ---
 
