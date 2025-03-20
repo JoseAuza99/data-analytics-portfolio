@@ -52,4 +52,9 @@ Statistical **representativeness analysis** of sample data vs. population using 
 
 ---
 
-### ⭐ **If you find my work interesting, feel free to star this repository!**  
+### **Let's Connect and Collaborate!**  
+
+I am always eager to learn, collaborate on data projects, and share knowledge with others.
+If you have any ideas, feedback, or collaboration opportunities, I would love to connect!
+
+### ⭐ **If you find my work interesting, feel free to star this repository and connect with me!**  
