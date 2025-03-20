@@ -52,12 +52,4 @@ Statistical **representativeness analysis** of sample data vs. population using 
 
 ---
 
-## **Next Steps**  
-
-- **Expand projects** with machine learning applications.  
-- **Optimize data pipelines** for handling large-scale datasets.  
-- **Enhance storytelling** through interactive dashboards & reports.  
-
----
-
 ### **If you find my work interesting, feel free to star this repository!**  
