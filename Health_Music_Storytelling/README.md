@@ -24,7 +24,7 @@ Using **Power BI** for storytelling, we analyze trends in **physical activity, h
 ## 📂 Project Structure  
 
 📌 **Files Included:**  
-- 📊 [`proyecto_final_jose.pbix`](https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Health_Music_Storytelling/proyecto_final_jose.pbix) → The interactive Power BI dashboard.  
+- 📊 [`proyecto_final_jose.pbix`](https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Health_Music_Storytelling/proyecto_final_jose.pbix) → The Power Bi visualisations.  
 - 📜 [`Memoria_proyecto_jose.pdf`](https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Health_Music_Storytelling/Memoria_proyecto_jose.pdf) → Project documentation with methodology and insights.  
 - 📄 [`Script_Depuracion_datasets.ipynb`](https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Health_Music_Storytelling/Script_Depuracion_datasets.ipynb) → Python notebook for data preprocessing before Power BI.  
 
