@@ -14,10 +14,6 @@ My goal is to turn raw data into meaningful decisions using **advanced analytics
 - **Machine Learning & Predictive Analytics**  
 - **Data Visualization:** Power BI, Matplotlib, Seaborn  
 
-### **Connect with Me**  
-- **LinkedIn:** [José David Auza](https://www.linkedin.com/in/josedavidauza)  
-- **Email:** joseauza99@gmail.com  
-
 ---
 
 ## **Featured Projects**  
@@ -56,5 +52,9 @@ Statistical **representativeness analysis** of sample data vs. population using 
 
 I am always eager to learn, collaborate on data projects, and share knowledge with others.
 If you have any ideas, feedback, or collaboration opportunities, I would love to connect!
+
+### **Connect with Me**  
+- **LinkedIn:** [José David Auza](https://www.linkedin.com/in/josedavidauza)  
+- **Email:** joseauza99@gmail.com  
 
 ### ⭐ **If you find my work interesting, feel free to star this repository and connect with me!**  
