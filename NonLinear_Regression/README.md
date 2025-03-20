@@ -1,21 +1,21 @@
-# 📉 Non-Linear and Logistic Regression Models in Python  
+# Non-Linear and Logistic Regression Models in Python  
 
 This project explores **Non-Linear Regression Models** and **Logistic Regression** techniques using Python.  
 It covers advanced regression concepts, model estimation, and classification applications.
 
-## 🎯 Objectives  
+## Objectives  
 
 ✅ Understand and apply **non-linear and logistic regression techniques**.  
 ✅ Estimate and evaluate models beyond simple linear relationships.  
 ✅ Use statistical tools to analyze non-linear patterns and classification accuracy.  
 
-## 🛠 Tools Used  
+##  Tools Used  
 
 💻 **Programming:** Python (pandas, numpy, statsmodels, sklearn, matplotlib, seaborn)  
 📊 **Visualization:** Matplotlib, Seaborn  
 📓 **Environment:** Jupyter Notebook  
 
-## 📂 Project Structure  
+##  Project Structure  
 
 📌 **Regression Notebooks:**  
 - 📖 [Non-Linear & Logistic Regression](https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/NonLinear_Regression/Lab%203.3%20Estimaci%C3%B3n%20modelos%20de%20regresi%C3%B3n%20no%20lineal%20y%20log%C3%ADstica%20en%20Python.ipynb) → Estimation of non-linear and logistic regression models.  
@@ -30,7 +30,7 @@ It covers advanced regression concepts, model estimation, and classification app
 All datasets are loaded within the notebooks for exploratory analysis, regression modeling, and classification tasks.
 
 
-## 📊 Key Analyses Conducted  
+##  Key Analyses Conducted  
 🔹 Non-Linear Regression Techniques  
 🔹 Logistic Regression for Classification  
 🔹 Comparison of Linear vs. Non-Linear Regression Models  
