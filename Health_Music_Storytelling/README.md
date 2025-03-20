@@ -24,9 +24,10 @@ Using **Power BI** for storytelling, we analyze trends in **physical activity, h
 ## 📂 Project Structure  
 
 📌 **Files Included:**  
-- 📊 `proyecto_final_jose.pbix` → The interactive Power BI dashboard.  
-- 📜 `Memoria_proyecto_jose.pdf` → Project documentation with methodology and insights.  
-- 📄 `Script_Depuracion_datasets.ipynb` → Python notebook for data preprocessing before Power BI.  
+- 📊 [`proyecto_final_jose.pbix`](https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Health_Music_Storytelling/proyecto_final_jose.pbix) → The interactive Power BI dashboard.  
+- 📜 [`Memoria_proyecto_jose.pdf`](https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Health_Music_Storytelling/Memoria_proyecto_jose.pdf) → Project documentation with methodology and insights.  
+- 📄 [`Script_Depuracion_datasets.ipynb`](https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Health_Music_Storytelling/Script_Depuracion_datasets.ipynb) → Python notebook for data preprocessing before Power BI.  
+
 
 📌 **Data Analysis Steps:**  
 1️⃣ **Data Cleaning & Transformation**: Standardized genres, handled missing values, and formatted timestamps.  
@@ -35,8 +36,8 @@ Using **Power BI** for storytelling, we analyze trends in **physical activity, h
    - 📈 **Noise Exposure vs. Acoustic Song Percentage**  
    - 🎵 **Music Genre Evolution Over Time**  
    - ❤️ **Heart Rate & Physical Activity Trends**  
-   - 📊 **Device Contribution (iPhone vs. Apple Watch Data Quality)**  
-
+   - 📊 **Device Contribution (iPhone vs. Apple Watch Data Quality)**
+   - 🎛  **Interactive Dashboard** → Explore trends dynamically using Power BI visualizations.  
 ---
 
 ## 🔍 Key Findings  
