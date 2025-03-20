@@ -1,4 +1,4 @@
-# 🌍 Population Analysis in India - Power BI & Statistical Tests  
+#  Population Analysis in India - Power BI & Statistical Tests  
 
 This project evaluates **the representativeness of a sample dataset compared to the general population in India**,  
 using **statistical hypothesis testing** and **Power BI visualizations** to extract meaningful insights.  
