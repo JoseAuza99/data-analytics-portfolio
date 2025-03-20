@@ -3,7 +3,7 @@
 This project explores **the relationship between personal health metrics (Apple Health) and music preferences (Spotify)**.  
 Using **Power BI** for storytelling, we analyze trends in **physical activity, heart rate, noise exposure, and music evolution** over time.  
 
-## 🎯 Objectives  
+##  Objectives  
 
 ✅ Identify **patterns in health metrics** such as heart rate, energy expenditure, and physical activity.  
 ✅ Analyze **music trends** over the years, exploring genre evolution and listening behavior.  
@@ -12,7 +12,7 @@ Using **Power BI** for storytelling, we analyze trends in **physical activity, h
 
 ---
 
-## 🛠 Tools Used  
+## Tools Used  
 
 💻 **Data Processing:** Python (Pandas, Seaborn, NumPy)  
 📊 **Visualization & Storytelling:** Power BI  
@@ -21,7 +21,7 @@ Using **Power BI** for storytelling, we analyze trends in **physical activity, h
 
 ---
 
-## 📂 Project Structure  
+##  Project Structure  
 
 📌 **Files Included:**  
 - 📊 [`proyecto_final_jose.pbix`](https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Health_Music_Storytelling/proyecto_final_jose.pbix) → The Power Bi visualisations.  
