@@ -1,4 +1,4 @@
-# 📈 Linear Regression Models in Python
+#  Linear Regression Models in Python
 
 This project explores the estimation of **Simple and Multiple Linear Regression Models** using Python.  
 It includes fundamental concepts of regression analysis, model estimation, and evaluation.
