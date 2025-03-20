@@ -3,7 +3,7 @@
 This project focuses on processing large-scale **energy sustainability datasets** using **ETL (Extract, Transform, Load) techniques** in **PySpark**.  
 The goal is to analyze and structure data related to **companies, renewable energy projects, and environmental regulations**.  
 
-## 🎯 Objectives  
+##  Objectives  
 
 ✅ Perform an **Exploratory Data Analysis (EDA)** to understand dataset structure and quality.  
 ✅ Apply **data transformation techniques** to generate efficiency metrics and economic benefit calculations.  
@@ -11,7 +11,7 @@ The goal is to analyze and structure data related to **companies, renewable ener
 
 ---
 
-## 🛠 Tools Used  
+##  Tools Used  
 
 💻 **Programming:** Python, PySpark  
 📊 **Visualization:** Matplotlib 
@@ -20,7 +20,7 @@ The goal is to analyze and structure data related to **companies, renewable ener
 
 ---
 
-## 📂 Project Structure  
+##  Project Structure  
 
 📌 **Google Colab Notebooks:**  
 - 📖 [Exploratory Data Analysis](https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Energy_Sustainability_ETL/Proyecto_final_EDA.ipynb) → Initial data analysis and dataset cleaning.  
@@ -37,7 +37,7 @@ https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Energy_Sustaina
 
 ---
 
-## 📊 Key Analyses Conducted  
+##  Key Analyses Conducted  
 🔹 Exploratory Data Analysis (EDA)  
 🔹 Energy efficiency calculations using renewable energy contributions  
 🔹 Economic benefit estimations based on subsidies, taxes, and savings  
