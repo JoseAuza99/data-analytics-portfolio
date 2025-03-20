@@ -32,12 +32,12 @@ using **statistical hypothesis testing** and **Power BI visualizations** to extr
 
 ##  Key Analyses Conducted  
 
-📈 **Exploratory Data Analysis (EDA)**  
-📊 **Comparison of Sample vs. General Population**  
-📉 **Statistical Hypothesis Testing (Proportion Tests, Z-Test)**  
-📈 **Construction of Auxiliary Tables for Statistical Connection in Power BI**  
-📊 **Data Transformation Techniques for Representativeness Adjustments**  
-🚀 **Dynamic Filtering and Data Exploration Features**  
+- **Exploratory Data Analysis (EDA)**  
+- **Comparison of Sample vs. General Population**  
+- **Statistical Hypothesis Testing (Proportion Tests, Z-Test)**  
+- **Construction of Auxiliary Tables for Statistical Connection in Power BI**  
+- **Data Transformation Techniques for Representativeness Adjustments**  
+- **Dynamic Filtering and Data Exploration Features**  
 
 ---
 
@@ -55,10 +55,10 @@ The dashboard features:
 
 ## 🔍 Key Findings  
 
-🔹  **Applied proportion hypothesis tests** to evaluate sample representativeness against the general population.  
-🔹  **Created auxiliary tables** with statistical results to integrate into Power BI.  
-🔹  **Found significant discrepancies in rural population proportions**, highlighting potential biases in sampling.  
-🔹  **Implemented data transformation techniques** to ensure more reliable comparisons in Power BI dashboards.  
+-  **Applied proportion hypothesis tests** to evaluate sample representativeness against the general population.  
+-  **Created auxiliary tables** with statistical results to integrate into Power BI.  
+-  **Found significant discrepancies in rural population proportions**, highlighting potential biases in sampling.  
+-  **Implemented data transformation techniques** to ensure more reliable comparisons in Power BI dashboards.  
 
 ---
 
