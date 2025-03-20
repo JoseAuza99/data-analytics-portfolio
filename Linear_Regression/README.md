@@ -3,19 +3,19 @@
 This project explores the estimation of **Simple and Multiple Linear Regression Models** using Python.  
 It includes fundamental concepts of regression analysis, model estimation, and evaluation.
 
-## 🎯 Objectives
+##  Objectives
 
 ✅ Understand and apply linear regression techniques.  
 ✅ Estimate and evaluate simple and multiple linear regression models.  
 ✅ Use statistical tools to interpret regression coefficients.  
 
-## 🛠 Tools Used
+##  Tools Used
 
 💻 **Programming:** Python (pandas, numpy, statsmodels, sklearn, matplotlib, seaborn)  
 📊 **Visualization:** Matplotlib, Seaborn  
 📓 **Environment:** Jupyter Notebook  
 
-## 📂 Project Structure
+## Project Structure
 
 📌 **Linear Regression Notebooks:**  
 - 📖 [Simple Linear Regression](https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Linear_Regression/Lab%203.1%20Estimaci%C3%B3n%20modelos%20de%20regresi%C3%B3n%20lineal%20simple%20en%20Python.ipynb) → Estimation of simple linear regression models.  
@@ -29,7 +29,7 @@ It includes fundamental concepts of regression analysis, model estimation, and e
 Both datasets are loaded within the notebooks for exploratory analysis and model estimation.
   
 
-## 📊 Key Analyses Conducted  
+##  Key Analyses Conducted  
 🔹 Simple Linear Regression Estimation  
 🔹 Multiple Linear Regression Estimation  
 🔹 Residual Analysis and Model Evaluation  
