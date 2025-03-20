@@ -3,7 +3,7 @@
 This project evaluates **the representativeness of a sample dataset compared to the general population in India**,  
 using **statistical hypothesis testing** and **Power BI visualizations** to extract meaningful insights.  
 
-## 🎯 Objectives  
+##  Objectives  
 
 ✅ Assess the **statistical representativeness** of the sample data.  
 ✅ Apply **hypothesis testing** to compare proportions between sample and population.  
@@ -12,7 +12,7 @@ using **statistical hypothesis testing** and **Power BI visualizations** to extr
 
 ---
 
-## 🛠 Tools Used  
+##  Tools Used  
 
 📊 **Visualization & Storytelling:** Power BI  
 💻 **Data Processing:** Python (Pandas, NumPy, SciPy, Statsmodels)  
@@ -22,7 +22,7 @@ using **statistical hypothesis testing** and **Power BI visualizations** to extr
 
 ---
 
-## 📂 Project Structure  
+##  Project Structure  
 
 📌 **Files Included:**  
 - 📊 [`Auza_Jose_20250222.pbix`](https://github.com/JoseAuza99/data-analytics-portfolio/blob/main/Population_Analysis_India/Auza_Jose_20250222.pbix) → The **interactive Power BI dashboard**.  
@@ -30,7 +30,7 @@ using **statistical hypothesis testing** and **Power BI visualizations** to extr
 
 ---
 
-## 📊 Key Analyses Conducted  
+##  Key Analyses Conducted  
 
 📈 **Exploratory Data Analysis (EDA)**  
 📊 **Comparison of Sample vs. General Population**  
@@ -41,7 +41,7 @@ using **statistical hypothesis testing** and **Power BI visualizations** to extr
 
 ---
 
-## 🎛 **Power BI Interactive Dashboard**  
+##  **Power BI Interactive Dashboard**  
 
 This project includes a **fully interactive Power BI dashboard**, allowing users to explore statistical insights dynamically.  
 The dashboard features:  
