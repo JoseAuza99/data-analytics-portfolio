@@ -46,19 +46,19 @@ using **statistical hypothesis testing** and **Power BI visualizations** to extr
 This project includes a **fully interactive Power BI dashboard**, allowing users to explore statistical insights dynamically.  
 The dashboard features:  
 
-- 🎛 **Interactive Dashboard** → Compare sample vs. population metrics in real time.  
-- 📈 **Proportion Hypothesis Testing Results** → Validation of sample representativeness.  
-- 📉 **Statistical Discrepancy Analysis** → Identify sampling biases.  
-- 📊 **Dynamic Filtering for In-Depth Analysis** → Explore different demographic groups.  
+-  **Interactive Dashboard** → Compare sample vs. population metrics in real time.  
+-  **Proportion Hypothesis Testing Results** → Validation of sample representativeness.  
+-  **Statistical Discrepancy Analysis** → Identify sampling biases.  
+-  **Dynamic Filtering for In-Depth Analysis** → Explore different demographic groups.  
 
 ---
 
 ## 🔍 Key Findings  
 
-- 📌 **Applied proportion hypothesis tests** to evaluate sample representativeness against the general population.  
-- 📊 **Created auxiliary tables** with statistical results to integrate into Power BI.  
-- 📈 **Found significant discrepancies in rural population proportions**, highlighting potential biases in sampling.  
-- 📊 **Implemented data transformation techniques** to ensure more reliable comparisons in Power BI dashboards.  
+🔹  **Applied proportion hypothesis tests** to evaluate sample representativeness against the general population.  
+🔹  **Created auxiliary tables** with statistical results to integrate into Power BI.  
+🔹  **Found significant discrepancies in rural population proportions**, highlighting potential biases in sampling.  
+🔹  **Implemented data transformation techniques** to ensure more reliable comparisons in Power BI dashboards.  
 
 ---
 
